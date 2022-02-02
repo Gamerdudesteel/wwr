@@ -1,0 +1,73 @@
+body {
+  background-color: #fcfbfb;
+}
+header {
+  background-color: rgba(20, 30, 13, 0.7);
+}
+nav a {
+  text-align: center;
+  background-color: black;
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+}
+.home-title {
+  color: blue;
+}
+nav a:hover {
+  background-color: black;
+  color: white;
+}
+#hero-msg h1 {
+  text-align: center;
+}
+#hero-msg h4 {
+  text-align: center;
+  color: red;
+}
+.button-box {
+  text-align: center;
+}
+main selection {
+  text-align: center;
+}
+.book {
+  background-color: blue;
+  color: red;
+}
+.join {
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+  background-color: red;
+}
+.join:hover {
+  background-color: green;
+  color: orange;
+}
+#background {
+  background-color: orange;
+  color: purple;
+}
+.msg {
+  background-color: Grey;
+  color: tan;
+}
+footer {
+  background-color: grey;
+  color: tan;
+}
+footer a :hover {
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: underline;
+}
+footer h3 a:hover {
+  text-decoration: underline;
+}
+.logo {
+  width: 80px;
+}
+#background {
+  height: 725px;
+}
